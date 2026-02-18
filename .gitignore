@@ -1,0 +1,49 @@
+# Virtual Environment
+genai_streamlit/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Database files
+*.sqlite3
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.temp
