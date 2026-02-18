@@ -1,11 +1,11 @@
-streamlit is used to build a web ui for your python app.
-creates butons, textboxes, chatinput etc.
+# streamlit is used to build a web ui for your python app.
+# creates butons, textboxes, chatinput etc.
 
-langchain is a framework for our application
-uses llms, documents, embedding, prompts, chatinput
+# langchain is a framework for our application
+# uses llms, documents, embedding, prompts, chatinput
 
-langchain-community we are usig community for extra integration maintained by this library
-eg. ollama connectors, document loaders, huggingface embeddings.
+# langchain-community we are usig community for extra integration maintained by this library
+# eg. ollama connectors, document loaders, huggingface embeddings.
 
 
 streamlit
